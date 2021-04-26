@@ -26,7 +26,6 @@ export default function Login(props) {
         event.preventDefault();
         setEmail(event.target.value);
     }
-    ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'propensid01.herokuapp.com']
 
     function handlePassword(event) {
         event.preventDefault();
