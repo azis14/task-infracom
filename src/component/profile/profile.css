@@ -1,0 +1,84 @@
+.profile-page {
+    padding: 20vh 0;
+}
+
+.box-biodata {
+    max-width: 800px;
+    border-radius: 20px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.btn-back {
+    background-color: rgb(194, 70, 70);
+    display: block;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    width: 60px;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition-duration: 0.2s;
+}
+
+.btn-back:hover {
+    background-color: rgb(211, 58, 58);
+    -webkit-transition-duration: 0.2s;
+}
+
+.btn-link {
+    margin: 8vh auto;
+    width: 60px;
+    padding: 10px;
+    background-color: rgb(112, 96, 96);
+    color: #fff;
+    border-radius: 20px;
+    text-decoration: none;
+    -webkit-transition-duration: 0.2s;
+}
+
+.btn-link:hover {
+    background-color: rgb(32, 29, 29);
+    -webkit-transition-duration: 0.2s;
+}
+
+.trigger {
+    background-color: #fff;
+    max-width: 800px;
+    padding: 20px;
+    margin: 10vh auto;
+    cursor: pointer;
+    -webkit-transition-duration: 0.2s;
+}
+
+.trigger:hover {
+    background-color: rgb(224, 213, 213);
+    -webkit-transition-duration: 0.2s;
+}
+
+.box {
+    background-color: #fff;
+    max-width: 800px;
+    padding: 20px;
+    margin: -5vh auto;
+    border-radius: 15px;
+}
+
+.box h1 {
+    margin-bottom: 75px;
+}
+
+.box h5, .box h6 {
+    text-align: left;
+    margin-top: -10px;
+}
+
+.box p {
+    text-align: justify;
+}
+
+.box hr {
+    margin-bottom: 25px;
+}

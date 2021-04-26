@@ -1,0 +1,58 @@
+body {
+    background-color: #333;
+    padding-bottom: 5vh;
+}
+
+.homepage {
+    padding-top: 8vh;
+    color: #fff;
+}
+
+.btn-logout {
+    background-color: #033a5f;
+    color: #fff;
+    width: 70px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 5vh auto;
+    cursor: pointer;
+    -webkit-transition-duration: 0.3s;
+}
+
+.btn-logout:hover {
+    background-color: #094f7e;
+    -webkit-transition-duration: 0.3s;
+}
+
+.img-nasa {
+    margin: auto;
+    max-width: 500px;
+    display: block;
+}
+
+.img-nasa img {
+    width: 100%;
+    display: block;
+}
+
+.exp-nasa {
+    width: 80%;
+    margin: 10vh auto;
+}
+
+.btn-profile {
+    margin: 8vh auto;
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(112, 96, 96);
+    color: #fff;
+    border-radius: 20px;
+    text-decoration: none;
+    -webkit-transition-duration: 0.2s;
+}
+
+.btn-profile:hover {
+    background-color: rgb(32, 29, 29);
+    -webkit-transition-duration: 0.2s;
+}
